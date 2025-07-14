@@ -7,7 +7,7 @@
 
 🎯 Funcionalidades
 
-✅ Estrutura semântica utilizando tags como <header>, <main>, <section>, <footer>, etc.
+✅ Estrutura semântica utilizando tags como <header>, <main>, <section> e  <footer>
 
 ✅ Navegação interna por meio de um menu com âncoras.
 
